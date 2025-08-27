@@ -1,14 +1,24 @@
 body {
     display: flex;
     flex-direction: column;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
 .container {
     display: flex;
+    height: 25%;
 }
-.header{
-    flex-direction: column;
+.container#header{
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-content: space-between;
+}
 
+ul {
+    display: flex;
+    gap: 20px;
 }
 
 .container#one {
@@ -17,3 +27,7 @@ body {
     background-color: #1F2947;
 }
 
+.container#inone {
+    display: flex;
+    justify-content: center;
+}
