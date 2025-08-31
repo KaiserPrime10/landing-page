@@ -202,3 +202,32 @@ a {
     display: flex;
     justify-content: flex-end;
 }
+
+#blog {
+    display: flex;
+    background-color: #ffffff;
+    justify-content: center;
+    padding-top: 15px;
+    padding-left: 10%;
+    padding-right: 10%;
+    min-height: 200px;
+    margin-bottom: 3%;
+}
+
+.action {
+    background-color: #1a2340;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.actiontext {
+    color: #ffffff;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.actionmain a {
+    margin: 0;
+    padding: 0;
+}
