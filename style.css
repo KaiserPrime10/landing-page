@@ -41,8 +41,8 @@ ul {
     flex-direction: column;
     background-color: #1a2340;
     justify-content: space-between;
-    padding-left: 8%;
-    padding-right: 8%;
+    padding-left: 10%;
+    padding-right: 10%;
     
 }
 
@@ -57,7 +57,7 @@ ul {
 
 #hero {
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: flex-start;
     margin-right: 10%;
 }
@@ -123,8 +123,8 @@ a {
     background-color: #ffffff;
     justify-content: center;
     padding-top: 15px;
-    padding-left: 8%;
-    padding-right: 8%;
+    padding-left: 10%;
+    padding-right: 10%;
     min-height: 200px;
     margin-bottom: 3%;
 }
@@ -179,8 +179,8 @@ a {
 
 #quote {
     padding-top: 100px;
-    padding-left: 8%;
-    padding-right: 8%;
+    padding-left: 10%;
+    padding-right: 10%;
     padding-bottom: 100px;
     display: flex;
     justify-content: center;
