@@ -126,7 +126,6 @@ a {
     padding-left: 10%;
     padding-right: 10%;
     min-height: 200px;
-    margin-bottom: 3%;
 }
 
 #intwo {
@@ -209,10 +208,11 @@ a {
     justify-content: center;
     align-items: center;
     padding-top: 15px;
+    padding-bottom: 15px;
     padding-left: 10%;
     padding-right: 10%;
     min-height: 200px;
-    margin-bottom: 3%;
+
 }
 
 .action {
